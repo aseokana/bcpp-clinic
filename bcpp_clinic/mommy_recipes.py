@@ -113,7 +113,7 @@ questionnaire = Recipe(
     registration_type=REGISTRATION_TYPES,
     on_arv=YES,
     knows_last_cd4=YES,
-    cd4_count=1.2
+    cd4_count=1.3
 )
 
 viralloadtracking = Recipe(
